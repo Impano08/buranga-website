@@ -1,0 +1,4404 @@
+[
+  {
+    "_id": "6ad4b42b03dec4458192bcab",
+    "title": "Classic Medium Box Braids",
+    "description": "Mid-back box parts with a neat middle line and a natural-looking finish.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-166.jpg",
+    "tags": [
+      "box braids",
+      "protective",
+      "medium length"
+    ],
+    "keywords": [
+      "classic medium box braids",
+      "braids & box braids",
+      "box braids",
+      "protective",
+      "medium length"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.7692,
+    "savesCount": 47,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-11T13:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.233Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcac",
+    "title": "Jumbo Knotless Feed-Ins",
+    "description": "Thick feed-in braids that start flat at the scalp for a lightweight feel.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-165.jpg",
+    "tags": [
+      "jumbo",
+      "feed-in",
+      "protective"
+    ],
+    "keywords": [
+      "jumbo knotless feed-ins",
+      "braids & box braids",
+      "jumbo",
+      "feed-in",
+      "protective"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Mixed",
+    "aspectRatio": 1.1984,
+    "savesCount": 27,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T14:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.231Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcad",
+    "title": "Goddess Box Braids with Curls",
+    "description": "Bohemian goddess braids with loose curly ends for movement and softness.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-164.jpg",
+    "tags": [
+      "goddess",
+      "curly ends",
+      "boho"
+    ],
+    "keywords": [
+      "goddess box braids with curls",
+      "braids & box braids",
+      "goddess",
+      "curly ends",
+      "boho"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Curly",
+    "aspectRatio": 1.9027,
+    "savesCount": 28,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T15:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.229Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcae",
+    "title": "Warm Brown Ombre Braids",
+    "description": "Rich chocolate box braids fading into a warm caramel at the tips.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-163.jpg",
+    "tags": [
+      "ombre",
+      "brown",
+      "colored"
+    ],
+    "keywords": [
+      "warm brown ombre braids",
+      "braids & box braids",
+      "ombre",
+      "brown",
+      "colored"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.75,
+    "savesCount": 31,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-11T16:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.226Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcaf",
+    "title": "Blonde Knotless Bob Braids",
+    "description": "Chin-length knotless braids in a honey blonde shade for a fresh bob look.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-162.jpg",
+    "tags": [
+      "bob",
+      "blonde",
+      "knotless"
+    ],
+    "keywords": [
+      "blonde knotless bob braids",
+      "braids & box braids",
+      "bob",
+      "blonde",
+      "knotless"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.75,
+    "savesCount": 17,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T17:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.225Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb0",
+    "title": "Thin Micro Box Braids",
+    "description": "Delicate small-part micro braids that take time but last for weeks.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-161.jpg",
+    "tags": [
+      "micro",
+      "small parts",
+      "long lasting"
+    ],
+    "keywords": [
+      "thin micro box braids",
+      "braids & box braids",
+      "micro",
+      "small parts",
+      "long lasting"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.25,
+    "savesCount": 20,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T18:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.223Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb1",
+    "title": "Two-Tone Black and Red Braids",
+    "description": "Jet-black braids with striking crimson streaks woven through the length.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-160.jpg",
+    "tags": [
+      "two tone",
+      "red",
+      "bold"
+    ],
+    "keywords": [
+      "two-tone black and red braids",
+      "braids & box braids",
+      "two tone",
+      "red",
+      "bold"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 0.6767,
+    "savesCount": 13,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-11T19:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.221Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb2",
+    "title": "Triangle Part Box Braids",
+    "description": "Geometric triangle partings give classic box braids a modern edge.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-159.jpg",
+    "tags": [
+      "triangle parts",
+      "geometric"
+    ],
+    "keywords": [
+      "triangle part box braids",
+      "braids & box braids",
+      "triangle parts",
+      "geometric"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Mixed",
+    "aspectRatio": 0.6667,
+    "savesCount": 66,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T20:57:31.599Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.220Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb3",
+    "title": "Braided High Ponytail",
+    "description": "Box braids gathered into a bouncy high ponytail with wrapped base.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-158.jpg",
+    "tags": [
+      "ponytail",
+      "updo",
+      "styled"
+    ],
+    "keywords": [
+      "braided high ponytail",
+      "braids & box braids",
+      "ponytail",
+      "updo",
+      "styled"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 0.6667,
+    "savesCount": 25,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T21:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.218Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb4",
+    "title": "Burgundy Bob Braids",
+    "description": "Chin-grazing burgundy braids that frame the face with warm colour.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-157.jpg",
+    "tags": [
+      "burgundy",
+      "bob",
+      "red"
+    ],
+    "keywords": [
+      "burgundy bob braids",
+      "braids & box braids",
+      "burgundy",
+      "bob",
+      "red"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 26,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-11T22:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.216Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb5",
+    "title": "Shoulder-Length Knotless Braids",
+    "description": "Featherweight knotless braids that fall just past the shoulders.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-156.jpg",
+    "tags": [
+      "knotless",
+      "shoulder length"
+    ],
+    "keywords": [
+      "shoulder-length knotless braids",
+      "braids & box braids",
+      "knotless",
+      "shoulder length"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5025,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-11T23:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.214Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb6",
+    "title": "Boho Knotless with Human Hair Curls",
+    "description": "Knotless braids blended with loose human-hair curls for a beachy vibe.",
+    "category": "Braids & Box Braids",
+    "imageUrl": "/uploads/seed/seed-new-155.jpg",
+    "tags": [
+      "boho",
+      "curls",
+      "blend"
+    ],
+    "keywords": [
+      "boho knotless with human hair curls",
+      "braids & box braids",
+      "boho",
+      "curls",
+      "blend"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Curly",
+    "aspectRatio": 0.7401,
+    "savesCount": 18,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T00:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.197Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb7",
+    "title": "Small Knotless Braids in Natural Black",
+    "description": "Slim knotless braids in a natural black shade that protect the edges.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-154.jpg",
+    "tags": [
+      "knotless",
+      "small",
+      "protective"
+    ],
+    "keywords": [
+      "small knotless braids in natural black",
+      "knotless braids",
+      "knotless",
+      "small",
+      "protective"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5025,
+    "savesCount": 27,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T01:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.195Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb8",
+    "title": "Knotless Braids with Beads",
+    "description": "Classic knotless braids finished with clear and wooden beads at the ends.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-153.jpg",
+    "tags": [
+      "beads",
+      "accessories"
+    ],
+    "keywords": [
+      "knotless braids with beads",
+      "knotless braids",
+      "beads",
+      "accessories"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 1.1905,
+    "savesCount": 12,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T02:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.193Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcb9",
+    "title": "Knotless Braids Half Up, Half Down",
+    "description": "Front braids pinned into a top knot while the rest flows freely.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-152.jpg",
+    "tags": [
+      "half up",
+      "updo",
+      "styled"
+    ],
+    "keywords": [
+      "knotless braids half up, half down",
+      "knotless braids",
+      "half up",
+      "updo",
+      "styled"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.7787,
+    "savesCount": 58,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T03:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.192Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcba",
+    "title": "Large Knotless Braids",
+    "description": "Chunky knotless braids that install faster and keep tension low.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-151.jpg",
+    "tags": [
+      "jumbo",
+      "large",
+      "low tension"
+    ],
+    "keywords": [
+      "large knotless braids",
+      "knotless braids",
+      "jumbo",
+      "large",
+      "low tension"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Mixed",
+    "aspectRatio": 0.7475,
+    "savesCount": 3,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T04:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.190Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcbb",
+    "title": "Knotless Braids with Curly Leave-Out",
+    "description": "Braided crown with soft curly leave-out around the hairline.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-150.jpg",
+    "tags": [
+      "leave out",
+      "curly",
+      "blend"
+    ],
+    "keywords": [
+      "knotless braids with curly leave-out",
+      "knotless braids",
+      "leave out",
+      "curly",
+      "blend"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.6657,
+    "savesCount": 12,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T05:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.188Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcbc",
+    "title": "Caramel Blonde Knotless Braids",
+    "description": "Warm caramel knotless braids that glow against deeper skin tones.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-149.jpg",
+    "tags": [
+      "caramel",
+      "blonde",
+      "warm"
+    ],
+    "keywords": [
+      "caramel blonde knotless braids",
+      "knotless braids",
+      "caramel",
+      "blonde",
+      "warm"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.6667,
+    "savesCount": 0,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T06:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.186Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcbd",
+    "title": "Knotless Lemonade Braids",
+    "description": "Side-swept knotless braids inspired by the iconic lemonade style.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-148.jpg",
+    "tags": [
+      "lemonade",
+      "side sweep"
+    ],
+    "keywords": [
+      "knotless lemonade braids",
+      "knotless braids",
+      "lemonade",
+      "side sweep"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 0.6642,
+    "savesCount": 27,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T07:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.184Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcbe",
+    "title": "Knotless Braids into a Low Bun",
+    "description": "Sleek low bun formed from long knotless braids for a polished look.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-147.jpg",
+    "tags": [
+      "bun",
+      "low bun",
+      "elegant"
+    ],
+    "keywords": [
+      "knotless braids into a low bun",
+      "knotless braids",
+      "bun",
+      "low bun",
+      "elegant"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Any",
+    "aspectRatio": 1.3393,
+    "savesCount": 35,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T08:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.182Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcbf",
+    "title": "Shoulder-Length Knotless Bob",
+    "description": "A tidy knotless bob that skims the shoulders with blunt ends.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-146.jpg",
+    "tags": [
+      "bob",
+      "shoulder"
+    ],
+    "keywords": [
+      "shoulder-length knotless bob",
+      "knotless braids",
+      "bob",
+      "shoulder"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.3393,
+    "savesCount": 21,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T09:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.180Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc0",
+    "title": "Knotless Braids with Gold Cuffs",
+    "description": "Simple black knotless braids dressed up with gold jewellery cuffs.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-145.jpg",
+    "tags": [
+      "gold cuffs",
+      "accessories"
+    ],
+    "keywords": [
+      "knotless braids with gold cuffs",
+      "knotless braids",
+      "gold cuffs",
+      "accessories"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.4827,
+    "savesCount": 65,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T10:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.178Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc1",
+    "title": "Jumbo Knotless in Deep Burgundy",
+    "description": "Only eight thick knotless braids in a deep wine-burgundy colour.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-144.jpg",
+    "tags": [
+      "jumbo",
+      "burgundy",
+      "wine"
+    ],
+    "keywords": [
+      "jumbo knotless in deep burgundy",
+      "knotless braids",
+      "jumbo",
+      "burgundy",
+      "wine"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.0101,
+    "savesCount": 27,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T11:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.176Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc2",
+    "title": "Knotless Braids with Space Buns",
+    "description": "Two playful space buns made from freshly installed knotless braids.",
+    "category": "Knotless Braids",
+    "imageUrl": "/uploads/seed/seed-new-143.jpg",
+    "tags": [
+      "space buns",
+      "playful"
+    ],
+    "keywords": [
+      "knotless braids with space buns",
+      "knotless braids",
+      "space buns",
+      "playful"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.3932,
+    "savesCount": 19,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T12:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.174Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc3",
+    "title": "Straight-Back Cornrows",
+    "description": "Five clean straight-back cornrows with a polished, minimal finish.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-142.jpg",
+    "tags": [
+      "straight back",
+      "simple"
+    ],
+    "keywords": [
+      "straight-back cornrows",
+      "cornrows",
+      "straight back",
+      "simple"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.4827,
+    "savesCount": 6,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T13:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.147Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc4",
+    "title": "Lemonade Side-Sweep Cornrows",
+    "description": "Curved cornrows swept dramatically to one shoulder.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-141.jpg",
+    "tags": [
+      "lemonade",
+      "side sweep",
+      "curved"
+    ],
+    "keywords": [
+      "lemonade side-sweep cornrows",
+      "cornrows",
+      "lemonade",
+      "side sweep",
+      "curved"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 1.3932,
+    "savesCount": 20,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T14:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.145Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc5",
+    "title": "Fulani Cornrows with Center Braid",
+    "description": "A single center braid flanked by side cornrows and bead accents.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-140.jpg",
+    "tags": [
+      "fulani",
+      "beads",
+      "tribal"
+    ],
+    "keywords": [
+      "fulani cornrows with center braid",
+      "cornrows",
+      "fulani",
+      "beads",
+      "tribal"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 38,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T15:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.144Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc6",
+    "title": "Straight-Back Cornrows into a Bun",
+    "description": "Neat straight-back cornrows gathered into a low braided bun.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-139.jpg",
+    "tags": [
+      "bun",
+      "straight back"
+    ],
+    "keywords": [
+      "straight-back cornrows into a bun",
+      "cornrows",
+      "bun",
+      "straight back"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 37,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T16:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.142Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc7",
+    "title": "Design Cornrows with Zig-Zag Parts",
+    "description": "Playful zig-zag partings turn classic cornrows into wearable art.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-138.jpg",
+    "tags": [
+      "zig zag",
+      "design",
+      "creative"
+    ],
+    "keywords": [
+      "design cornrows with zig-zag parts",
+      "cornrows",
+      "zig zag",
+      "design",
+      "creative"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 40,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T17:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.141Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc8",
+    "title": "Ghana Cornrows with Extensions",
+    "description": "Feed-in Ghana braids that start tiny and swell into full cornrows.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-137.jpg",
+    "tags": [
+      "ghana braids",
+      "feed in"
+    ],
+    "keywords": [
+      "ghana cornrows with extensions",
+      "cornrows",
+      "ghana braids",
+      "feed in"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Mixed",
+    "aspectRatio": 1.5,
+    "savesCount": 3,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T18:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.139Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcc9",
+    "title": "Cornrow Braided Crown",
+    "description": "Cornrows circling the head like a halo for a goddess-inspired look.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-136.jpg",
+    "tags": [
+      "crown",
+      "halo",
+      "goddess"
+    ],
+    "keywords": [
+      "cornrow braided crown",
+      "cornrows",
+      "crown",
+      "halo",
+      "goddess"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Wedding",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 35,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T19:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.138Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcca",
+    "title": "Five Straight-Backs with Beads",
+    "description": "Classic straight-back cornrows finished with bright beads.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-135.jpg",
+    "tags": [
+      "straight back",
+      "beads",
+      "classic"
+    ],
+    "keywords": [
+      "five straight-backs with beads",
+      "cornrows",
+      "straight back",
+      "beads",
+      "classic"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 10,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T20:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.136Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bccb",
+    "title": "Freestyle Tribal Cornrows",
+    "description": "A freehand tribal pattern mixing thick and thin cornrow sections.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-134.jpg",
+    "tags": [
+      "tribal",
+      "freestyle",
+      "pattern"
+    ],
+    "keywords": [
+      "freestyle tribal cornrows",
+      "cornrows",
+      "tribal",
+      "freestyle",
+      "pattern"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 17,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T21:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.134Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bccc",
+    "title": "Cornrows into Two Space Buns",
+    "description": "Front cornrows feeding into twin buns at the crown.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-133.jpg",
+    "tags": [
+      "space buns",
+      "cornrows"
+    ],
+    "keywords": [
+      "cornrows into two space buns",
+      "cornrows",
+      "space buns",
+      "cornrows"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 37,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-12T22:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.132Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bccd",
+    "title": "Side-Parted Lemonade Rows",
+    "description": "Deep side part with rows curving softly toward the nape.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-132.jpg",
+    "tags": [
+      "side part",
+      "lemonade"
+    ],
+    "keywords": [
+      "side-parted lemonade rows",
+      "cornrows",
+      "side part",
+      "lemonade"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.25,
+    "savesCount": 9,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-12T23:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.130Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcce",
+    "title": "Cornrows with Heart Design",
+    "description": "A small heart shape braid detail along the temple.",
+    "category": "Cornrows",
+    "imageUrl": "/uploads/seed/seed-new-131.jpg",
+    "tags": [
+      "heart",
+      "design",
+      "detail"
+    ],
+    "keywords": [
+      "cornrows with heart design",
+      "cornrows",
+      "heart",
+      "design",
+      "detail"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 60,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T00:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.127Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bccf",
+    "title": "Bantu Knots",
+    "description": "Sections of coily hair twisted and wrapped into neat little knots.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-130.jpg",
+    "tags": [
+      "bantu knots",
+      "protective",
+      "traditional"
+    ],
+    "keywords": [
+      "bantu knots",
+      "natural african hairstyles",
+      "bantu knots",
+      "protective",
+      "traditional"
+    ],
+    "hairLength": "Short",
+    "occasion": "Party",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 16,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T01:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.125Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd0",
+    "title": "Twist-Out on Type 4 Hair",
+    "description": "Two-strand twists unraveled to reveal a defined, springy pattern.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-129.jpg",
+    "tags": [
+      "twist out",
+      "definition"
+    ],
+    "keywords": [
+      "twist-out on type 4 hair",
+      "natural african hairstyles",
+      "twist out",
+      "definition"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 5,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T02:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.124Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd1",
+    "title": "Flat Twist Updo",
+    "description": "Flat twists sweeping up into a sculpted updo at the crown.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-128.jpg",
+    "tags": [
+      "flat twists",
+      "updo"
+    ],
+    "keywords": [
+      "flat twist updo",
+      "natural african hairstyles",
+      "flat twists",
+      "updo"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Formal",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 11,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T03:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.122Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd2",
+    "title": "Braided Beaded Heritage Style",
+    "description": "Cornrowed sections adorned with traditional beads and shells.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-127.jpg",
+    "tags": [
+      "beads",
+      "heritage",
+      "traditional"
+    ],
+    "keywords": [
+      "braided beaded heritage style",
+      "natural african hairstyles",
+      "beads",
+      "heritage",
+      "traditional"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Festival",
+    "hairType": "Coily",
+    "aspectRatio": 1,
+    "savesCount": 13,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T04:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.120Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd3",
+    "title": "Wash-and-Go on Coily Hair",
+    "description": "A hydrating wash-and-go that celebrates tight coil definition.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-126.jpg",
+    "tags": [
+      "wash and go",
+      "hydrated"
+    ],
+    "keywords": [
+      "wash-and-go on coily hair",
+      "natural african hairstyles",
+      "wash and go",
+      "hydrated"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 10,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T05:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.118Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd4",
+    "title": "Finger Coils",
+    "description": "Individually coiled strands for a striking, defined texture.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-125.jpg",
+    "tags": [
+      "finger coils",
+      "defined"
+    ],
+    "keywords": [
+      "finger coils",
+      "natural african hairstyles",
+      "finger coils",
+      "defined"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.6667,
+    "savesCount": 38,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T06:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.116Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd5",
+    "title": "Headwrap with Natural Puff",
+    "description": "A colorful African headwrap framing a full natural puff.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-124.jpg",
+    "tags": [
+      "headwrap",
+      "puff",
+      "accessory"
+    ],
+    "keywords": [
+      "headwrap with natural puff",
+      "natural african hairstyles",
+      "headwrap",
+      "puff",
+      "accessory"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Festival",
+    "hairType": "Coily",
+    "aspectRatio": 0.75,
+    "savesCount": 49,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T07:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.114Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd6",
+    "title": "Flat Twist-Out Curls",
+    "description": "Flat twists taken down to reveal fluffy, stretched curls.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-123.jpg",
+    "tags": [
+      "flat twist out",
+      "stretched"
+    ],
+    "keywords": [
+      "flat twist-out curls",
+      "natural african hairstyles",
+      "flat twist out",
+      "stretched"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.75,
+    "savesCount": 5,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T08:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.113Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd7",
+    "title": "Natural Frohawk",
+    "description": "Sleek sides with a bold strip of natural hair down the center.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-122.jpg",
+    "tags": [
+      "frohawk",
+      "mohawk"
+    ],
+    "keywords": [
+      "natural frohawk",
+      "natural african hairstyles",
+      "frohawk",
+      "mohawk"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Coily",
+    "aspectRatio": 0.6875,
+    "savesCount": 23,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T09:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.111Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd8",
+    "title": "Cornrowed Natural Bun",
+    "description": "Natural hair cornrowed upward into a full bun at the crown.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-121.jpg",
+    "tags": [
+      "bun",
+      "cornrowed"
+    ],
+    "keywords": [
+      "cornrowed natural bun",
+      "natural african hairstyles",
+      "bun",
+      "cornrowed"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Formal",
+    "hairType": "Coily",
+    "aspectRatio": 1.1043,
+    "savesCount": 18,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T10:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.108Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcd9",
+    "title": "Coiled Rope Twists",
+    "description": "Rope-twisted sections springing with moisture and shine.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-120.jpg",
+    "tags": [
+      "rope twists",
+      "moisture"
+    ],
+    "keywords": [
+      "coiled rope twists",
+      "natural african hairstyles",
+      "rope twists",
+      "moisture"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.6667,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T11:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.106Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcda",
+    "title": "African Threading Style",
+    "description": "Traditional threading stretches coily hair into sculptural sections.",
+    "category": "Natural African Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-119.jpg",
+    "tags": [
+      "threading",
+      "traditional"
+    ],
+    "keywords": [
+      "african threading style",
+      "natural african hairstyles",
+      "threading",
+      "traditional"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.574,
+    "savesCount": 11,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T12:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.105Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcdb",
+    "title": "Round Shaped Afro",
+    "description": "A full, evenly picked afro shaped into a soft round silhouette.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-118.jpg",
+    "tags": [
+      "afro",
+      "round",
+      "classic"
+    ],
+    "keywords": [
+      "round shaped afro",
+      "afro hairstyles",
+      "afro",
+      "round",
+      "classic"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.7457,
+    "savesCount": 35,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T13:57:31.600Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.103Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcdc",
+    "title": "Tapered TWA (Teeny Weeny Afro)",
+    "description": "A short tapered cut that hugs the shape of the head.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-117.jpg",
+    "tags": [
+      "twa",
+      "tapered",
+      "short"
+    ],
+    "keywords": [
+      "tapered twa (teeny weeny afro)",
+      "afro hairstyles",
+      "twa",
+      "tapered",
+      "short"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.6667,
+    "savesCount": 34,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T14:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.101Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcdd",
+    "title": "Long Full Afro with Side Part",
+    "description": "A long, healthy afro parted deeply to one side.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-116.jpg",
+    "tags": [
+      "long afro",
+      "side part"
+    ],
+    "keywords": [
+      "long full afro with side part",
+      "afro hairstyles",
+      "long afro",
+      "side part"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5025,
+    "savesCount": 26,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T15:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.099Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcde",
+    "title": "Highlighted Curly Afro",
+    "description": "A soft curly afro lifted with subtle honey highlights.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-115.jpg",
+    "tags": [
+      "highlighted",
+      "curly afro"
+    ],
+    "keywords": [
+      "highlighted curly afro",
+      "afro hairstyles",
+      "highlighted",
+      "curly afro"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.7627,
+    "savesCount": 9,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T16:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.096Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcdf",
+    "title": "Afro Puff with Braided Base",
+    "description": "A high puff anchored by a braided perimeter.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-114.jpg",
+    "tags": [
+      "puff",
+      "braided base"
+    ],
+    "keywords": [
+      "afro puff with braided base",
+      "afro hairstyles",
+      "puff",
+      "braided base"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.6667,
+    "savesCount": 14,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T17:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.094Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce0",
+    "title": "Blunt-Cut Afro Bob",
+    "description": "An afro shaped into a sharp, chin-length bob line.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-113.jpg",
+    "tags": [
+      "blunt cut",
+      "bob"
+    ],
+    "keywords": [
+      "blunt-cut afro bob",
+      "afro hairstyles",
+      "blunt cut",
+      "bob"
+    ],
+    "hairLength": "Short",
+    "occasion": "Formal",
+    "hairType": "Coily",
+    "aspectRatio": 0.6647,
+    "savesCount": 30,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T18:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.092Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce1",
+    "title": "Fluffy Teeny Weeny Afro",
+    "description": "A soft TWA kept fluffy with regular moisturizing.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-112.jpg",
+    "tags": [
+      "twa",
+      "fluffy"
+    ],
+    "keywords": [
+      "fluffy teeny weeny afro",
+      "afro hairstyles",
+      "twa",
+      "fluffy"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5075,
+    "savesCount": 35,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T19:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.090Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce2",
+    "title": "Afro with Golden Accessories",
+    "description": "A rounded afro decorated with golden pins and cuffs.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-111.jpg",
+    "tags": [
+      "accessories",
+      "golden"
+    ],
+    "keywords": [
+      "afro with golden accessories",
+      "afro hairstyles",
+      "accessories",
+      "golden"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Coily",
+    "aspectRatio": 0.8057,
+    "savesCount": 12,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T20:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.088Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce3",
+    "title": "Natural Afro with Defined Edges",
+    "description": "A picked-out afro balanced with carefully laid edges.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-110.jpg",
+    "tags": [
+      "edges",
+      "sleek"
+    ],
+    "keywords": [
+      "natural afro with defined edges",
+      "afro hairstyles",
+      "edges",
+      "sleek"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.9783,
+    "savesCount": 62,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T21:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.086Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce4",
+    "title": "Voluminous Curly Fro",
+    "description": "Big, bouncy curls forming a voluminous halo.",
+    "category": "Afro Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-109.jpg",
+    "tags": [
+      "curly",
+      "voluminous"
+    ],
+    "keywords": [
+      "voluminous curly fro",
+      "afro hairstyles",
+      "curly",
+      "voluminous"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Curly",
+    "aspectRatio": 0.6839,
+    "savesCount": 21,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-13T22:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.084Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce5",
+    "title": "Starter Locs (Comb Coils)",
+    "description": "Freshly started comb-coil locs beginning their journey.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-108.jpg",
+    "tags": [
+      "starter locs",
+      "beginner"
+    ],
+    "keywords": [
+      "starter locs (comb coils)",
+      "locs & dreadlocks",
+      "starter locs",
+      "beginner"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.4975,
+    "savesCount": 30,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-13T23:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.082Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce6",
+    "title": "Golden Blonde Locs",
+    "description": "Mature locs dyed a warm golden blonde all over.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-107.jpg",
+    "tags": [
+      "blonde",
+      "colored",
+      "mature"
+    ],
+    "keywords": [
+      "golden blonde locs",
+      "locs & dreadlocks",
+      "blonde",
+      "colored",
+      "mature"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.7137,
+    "savesCount": 11,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T00:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.081Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce7",
+    "title": "Goddess Locs with Wavy Ends",
+    "description": "Wrapped faux goddess locs finishing in loose waves.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-106.jpg",
+    "tags": [
+      "goddess locs",
+      "wavy ends"
+    ],
+    "keywords": [
+      "goddess locs with wavy ends",
+      "locs & dreadlocks",
+      "goddess locs",
+      "wavy ends"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Wavy",
+    "aspectRatio": 1.6667,
+    "savesCount": 37,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T01:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.079Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce8",
+    "title": "Faux Locs Bob",
+    "description": "Lightweight faux locs cut into a chic shoulder-grazing bob.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-105.jpg",
+    "tags": [
+      "faux locs",
+      "bob"
+    ],
+    "keywords": [
+      "faux locs bob",
+      "locs & dreadlocks",
+      "faux locs",
+      "bob"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.3333,
+    "savesCount": 17,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T02:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.077Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bce9",
+    "title": "Loc Bun Updo",
+    "description": "Long locs swept up into a regal stacked bun.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-104.jpg",
+    "tags": [
+      "bun",
+      "updo",
+      "locs"
+    ],
+    "keywords": [
+      "loc bun updo",
+      "locs & dreadlocks",
+      "bun",
+      "updo",
+      "locs"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Any",
+    "aspectRatio": 1.0078,
+    "savesCount": 31,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T03:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.075Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcea",
+    "title": "Butterfly Locs",
+    "description": "Distressed, textured butterfly locs with a soft bohemian finish.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-103.jpg",
+    "tags": [
+      "butterfly",
+      "distressed",
+      "boho"
+    ],
+    "keywords": [
+      "butterfly locs",
+      "locs & dreadlocks",
+      "butterfly",
+      "distressed",
+      "boho"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 0.5625,
+    "savesCount": 36,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T04:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.074Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bceb",
+    "title": "Sisterlocks",
+    "description": "Tiny, uniform micro locs that move like loose hair.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-102.jpg",
+    "tags": [
+      "sisterlocks",
+      "micro"
+    ],
+    "keywords": [
+      "sisterlocks",
+      "locs & dreadlocks",
+      "sisterlocks",
+      "micro"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.5621,
+    "savesCount": 22,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T05:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.072Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcec",
+    "title": "Two-Strand Rope Locs",
+    "description": "Locs paired into rope twists for a chunky, bold look.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-101.jpg",
+    "tags": [
+      "rope",
+      "twists"
+    ],
+    "keywords": [
+      "two-strand rope locs",
+      "locs & dreadlocks",
+      "rope",
+      "twists"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.9636,
+    "savesCount": 32,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T06:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.071Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bced",
+    "title": "Locs with Beads and Shells",
+    "description": "Mature locs decorated with wooden beads and cowrie shells.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-100.jpg",
+    "tags": [
+      "beads",
+      "shells",
+      "accessories"
+    ],
+    "keywords": [
+      "locs with beads and shells",
+      "locs & dreadlocks",
+      "beads",
+      "shells",
+      "accessories"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 1.4218,
+    "savesCount": 34,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T07:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.069Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcee",
+    "title": "Curly Loc Ponytail",
+    "description": "A high ponytail of locs with soft curls spiraling down.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-099.jpg",
+    "tags": [
+      "ponytail",
+      "curly"
+    ],
+    "keywords": [
+      "curly loc ponytail",
+      "locs & dreadlocks",
+      "ponytail",
+      "curly"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Curly",
+    "aspectRatio": 1.3997,
+    "savesCount": 3,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T08:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.067Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcef",
+    "title": "Blonde-Tipped Freeform Locs",
+    "description": "Freeform locs with naturally lightened tips.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-098.jpg",
+    "tags": [
+      "freeform",
+      "tipped"
+    ],
+    "keywords": [
+      "blonde-tipped freeform locs",
+      "locs & dreadlocks",
+      "freeform",
+      "tipped"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 12,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T09:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.065Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf0",
+    "title": "Braided Loc Crown",
+    "description": "Locs braided into a crown braid around the head.",
+    "category": "Locs & Dreadlocks",
+    "imageUrl": "/uploads/seed/seed-new-097.jpg",
+    "tags": [
+      "crown",
+      "braided"
+    ],
+    "keywords": [
+      "braided loc crown",
+      "locs & dreadlocks",
+      "crown",
+      "braided"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Any",
+    "aspectRatio": 0.5348,
+    "savesCount": 20,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T10:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.064Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf1",
+    "title": "Body Wave Lace Front Wig",
+    "description": "A 26-inch body wave unit with a natural-looking hairline.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-096.jpg",
+    "tags": [
+      "lace front",
+      "body wave",
+      "long"
+    ],
+    "keywords": [
+      "body wave lace front wig",
+      "wigs & lace fronts",
+      "lace front",
+      "body wave",
+      "long"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Wavy",
+    "aspectRatio": 2.2222,
+    "savesCount": 68,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T11:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.062Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf2",
+    "title": "Pixie Cut Lace Wig",
+    "description": "A short pixie unit with soft side-swept bangs.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-095.jpg",
+    "tags": [
+      "pixie",
+      "short wig"
+    ],
+    "keywords": [
+      "pixie cut lace wig",
+      "wigs & lace fronts",
+      "pixie",
+      "short wig"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Straight",
+    "aspectRatio": 0.7506,
+    "savesCount": 4,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T12:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.060Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf3",
+    "title": "Curly Kinky Lace Front",
+    "description": "A kinky-curly lace front that matches type 4 texture.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-094.jpg",
+    "tags": [
+      "kinky curly",
+      "natural blend"
+    ],
+    "keywords": [
+      "curly kinky lace front",
+      "wigs & lace fronts",
+      "kinky curly",
+      "natural blend"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.75,
+    "savesCount": 30,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T13:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.058Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf4",
+    "title": "Jet Black Straight Wig",
+    "description": "A sleek, bone-straight black unit with a middle part.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-093.jpg",
+    "tags": [
+      "straight",
+      "black",
+      "sleek"
+    ],
+    "keywords": [
+      "jet black straight wig",
+      "wigs & lace fronts",
+      "straight",
+      "black",
+      "sleek"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 0.7705,
+    "savesCount": 12,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T14:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.056Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf5",
+    "title": "Blonde Highlight Lace Wig",
+    "description": "Hand-tied lace front with caramel blonde highlights.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-092.jpg",
+    "tags": [
+      "highlight",
+      "blonde",
+      "hand tied"
+    ],
+    "keywords": [
+      "blonde highlight lace wig",
+      "wigs & lace fronts",
+      "highlight",
+      "blonde",
+      "hand tied"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Wavy",
+    "aspectRatio": 1.5,
+    "savesCount": 29,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T15:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.054Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf6",
+    "title": "Water Wave Closure Wig",
+    "description": "A wet-and-wavy closure unit that looks freshly defined.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-091.jpg",
+    "tags": [
+      "water wave",
+      "wet look"
+    ],
+    "keywords": [
+      "water wave closure wig",
+      "wigs & lace fronts",
+      "water wave",
+      "wet look"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 1.5,
+    "savesCount": 30,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T16:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.051Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf7",
+    "title": "Colored Burgundy Lace Front",
+    "description": "A burgundy straight lace front with a deep side part.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-090.jpg",
+    "tags": [
+      "burgundy",
+      "colored",
+      "side part"
+    ],
+    "keywords": [
+      "colored burgundy lace front",
+      "wigs & lace fronts",
+      "burgundy",
+      "colored",
+      "side part"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Straight",
+    "aspectRatio": 1.5,
+    "savesCount": 31,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T17:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.050Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf8",
+    "title": "Afro Puff Ponytail Wig",
+    "description": "A glueless unit styled into a full afro puff.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-089.jpg",
+    "tags": [
+      "puff",
+      "glueless"
+    ],
+    "keywords": [
+      "afro puff ponytail wig",
+      "wigs & lace fronts",
+      "puff",
+      "glueless"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.8,
+    "savesCount": 48,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T18:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.047Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcf9",
+    "title": "Burgundy Curly Bob Wig",
+    "description": "A chin-length curly bob in a rich burgundy shade.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-088.jpg",
+    "tags": [
+      "curly bob",
+      "burgundy"
+    ],
+    "keywords": [
+      "burgundy curly bob wig",
+      "wigs & lace fronts",
+      "curly bob",
+      "burgundy"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 1.3333,
+    "savesCount": 35,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T19:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.045Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcfa",
+    "title": "HD Lace Deep Wave",
+    "description": "Transparent HD lace with defined deep wave bundles.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-087.jpg",
+    "tags": [
+      "hd lace",
+      "deep wave"
+    ],
+    "keywords": [
+      "hd lace deep wave",
+      "wigs & lace fronts",
+      "hd lace",
+      "deep wave"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Curly",
+    "aspectRatio": 0.6,
+    "savesCount": 15,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T20:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.044Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcfb",
+    "title": "Braided Lace Front Wig",
+    "description": "A pre-braided lace front with neat knotless plaits.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-086.jpg",
+    "tags": [
+      "braided wig",
+      "convenience"
+    ],
+    "keywords": [
+      "braided lace front wig",
+      "wigs & lace fronts",
+      "braided wig",
+      "convenience"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.4901,
+    "savesCount": 22,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T21:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.042Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcfc",
+    "title": "Curly Afro Puff Half-Wig",
+    "description": "A half-wig puff blending into natural edges.",
+    "category": "Wigs & Lace Fronts",
+    "imageUrl": "/uploads/seed/seed-new-085.jpg",
+    "tags": [
+      "half wig",
+      "puff"
+    ],
+    "keywords": [
+      "curly afro puff half-wig",
+      "wigs & lace fronts",
+      "half wig",
+      "puff"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 34,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-14T22:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.040Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcfd",
+    "title": "Tapered Taper Fade Cut",
+    "description": "A precision taper fade fading cleanly at the nape.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-084.jpg",
+    "tags": [
+      "taper fade",
+      "precision"
+    ],
+    "keywords": [
+      "tapered taper fade cut",
+      "short hairstyles",
+      "taper fade",
+      "precision"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.75,
+    "savesCount": 27,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-14T23:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.038Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcfe",
+    "title": "Curly Pixie Cut",
+    "description": "A short pixie with soft natural curls on top.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-083.jpg",
+    "tags": [
+      "pixie",
+      "curly"
+    ],
+    "keywords": [
+      "curly pixie cut",
+      "short hairstyles",
+      "pixie",
+      "curly"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 1.3333,
+    "savesCount": 0,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T00:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.036Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bcff",
+    "title": "Sleek Finger Waves",
+    "description": "Classic finger waves sculpted flat against the head.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-082.jpg",
+    "tags": [
+      "finger waves",
+      "vintage"
+    ],
+    "keywords": [
+      "sleek finger waves",
+      "short hairstyles",
+      "finger waves",
+      "vintage"
+    ],
+    "hairLength": "Short",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 1.5,
+    "savesCount": 33,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T01:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.034Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd00",
+    "title": "Buzz Cut with Line Design",
+    "description": "A clean buzz cut accented with a razor line design.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-081.jpg",
+    "tags": [
+      "buzz",
+      "design",
+      "razor"
+    ],
+    "keywords": [
+      "buzz cut with line design",
+      "short hairstyles",
+      "buzz",
+      "design",
+      "razor"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.6667,
+    "savesCount": 26,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T02:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.032Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd01",
+    "title": "Textured Crop Top",
+    "description": "A short textured crop with a tousled finish on top.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-080.jpg",
+    "tags": [
+      "crop",
+      "textured"
+    ],
+    "keywords": [
+      "textured crop top",
+      "short hairstyles",
+      "crop",
+      "textured"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Wavy",
+    "aspectRatio": 1.5,
+    "savesCount": 9,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T03:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.030Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd02",
+    "title": "Chin-Length Bob with Bangs",
+    "description": "A sharp chin-length bob with blunt bangs.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-079.jpg",
+    "tags": [
+      "bob",
+      "bangs"
+    ],
+    "keywords": [
+      "chin-length bob with bangs",
+      "short hairstyles",
+      "bob",
+      "bangs"
+    ],
+    "hairLength": "Short",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 1.5,
+    "savesCount": 24,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T04:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.028Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd03",
+    "title": "Side-Parted Slicked Cut",
+    "description": "A short side-parted cut slicked neatly into place.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-078.jpg",
+    "tags": [
+      "side part",
+      "slicked"
+    ],
+    "keywords": [
+      "side-parted slicked cut",
+      "short hairstyles",
+      "side part",
+      "slicked"
+    ],
+    "hairLength": "Short",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 1.4975,
+    "savesCount": 30,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T05:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.026Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd04",
+    "title": "Nape-Length Wedge Cut",
+    "description": "A graduated wedge cut stacking at the nape.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-077.jpg",
+    "tags": [
+      "wedge",
+      "graduated"
+    ],
+    "keywords": [
+      "nape-length wedge cut",
+      "short hairstyles",
+      "wedge",
+      "graduated"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Straight",
+    "aspectRatio": 1.7751,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T06:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.024Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd05",
+    "title": "Curly Tapered Cut",
+    "description": "Short tapered sides with a soft cluster of curls on top.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-076.jpg",
+    "tags": [
+      "tapered",
+      "curly top"
+    ],
+    "keywords": [
+      "curly tapered cut",
+      "short hairstyles",
+      "tapered",
+      "curly top"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 1.5,
+    "savesCount": 34,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T07:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.021Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd06",
+    "title": "Asymmetrical Bob",
+    "description": "A daring bob cut shorter at the back and longer at the front.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-075.jpg",
+    "tags": [
+      "asymmetrical",
+      "bob"
+    ],
+    "keywords": [
+      "asymmetrical bob",
+      "short hairstyles",
+      "asymmetrical",
+      "bob"
+    ],
+    "hairLength": "Short",
+    "occasion": "Party",
+    "hairType": "Straight",
+    "aspectRatio": 1.5,
+    "savesCount": 68,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T08:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.019Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd07",
+    "title": "Pixie Cut with Side Sweep",
+    "description": "A soft pixie with a longer, side-swept fringe.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-074.jpg",
+    "tags": [
+      "pixie",
+      "side sweep"
+    ],
+    "keywords": [
+      "pixie cut with side sweep",
+      "short hairstyles",
+      "pixie",
+      "side sweep"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Wavy",
+    "aspectRatio": 0.9385,
+    "savesCount": 30,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T09:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.018Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd08",
+    "title": "Buzzed Sides with Twist Top",
+    "description": "Skin-faded sides with short twists styled on top.",
+    "category": "Short Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-073.jpg",
+    "tags": [
+      "fades",
+      "twists"
+    ],
+    "keywords": [
+      "buzzed sides with twist top",
+      "short hairstyles",
+      "fades",
+      "twists"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.7264,
+    "savesCount": 36,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T10:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.015Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd09",
+    "title": "Waist-Length Bone Straight",
+    "description": "Silky bone-straight hair falling past the waist.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-072.jpg",
+    "tags": [
+      "bone straight",
+      "waist length"
+    ],
+    "keywords": [
+      "waist-length bone straight",
+      "long hairstyles",
+      "bone straight",
+      "waist length"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 0.7519,
+    "savesCount": 29,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T11:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.014Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd0a",
+    "title": "Long Loose Beach Waves",
+    "description": "Relaxed beach waves that start at the cheekbones.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-071.jpg",
+    "tags": [
+      "beach waves",
+      "loose"
+    ],
+    "keywords": [
+      "long loose beach waves",
+      "long hairstyles",
+      "beach waves",
+      "loose"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Wavy",
+    "aspectRatio": 0.8014,
+    "savesCount": 7,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T12:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.012Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd0b",
+    "title": "Braided Crown with Flowing Length",
+    "description": "A braided crown over very long flowing waves.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-070.jpg",
+    "tags": [
+      "crown",
+      "flowing"
+    ],
+    "keywords": [
+      "braided crown with flowing length",
+      "long hairstyles",
+      "crown",
+      "flowing"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Wavy",
+    "aspectRatio": 1.5,
+    "savesCount": 21,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T13:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.011Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd0c",
+    "title": "Butterfly Soft Waves",
+    "description": "Feathered, airy waves with a soft romantic feel.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-069.jpg",
+    "tags": [
+      "butterfly",
+      "airy",
+      "romantic"
+    ],
+    "keywords": [
+      "butterfly soft waves",
+      "long hairstyles",
+      "butterfly",
+      "airy",
+      "romantic"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Wavy",
+    "aspectRatio": 1.3333,
+    "savesCount": 7,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T14:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.009Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd0d",
+    "title": "Long Ponytail with Wraps",
+    "description": "A sleek high ponytail wrapped at the base for extra polish.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-068.jpg",
+    "tags": [
+      "ponytail",
+      "sleek"
+    ],
+    "keywords": [
+      "long ponytail with wraps",
+      "long hairstyles",
+      "ponytail",
+      "sleek"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Straight",
+    "aspectRatio": 0.75,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T15:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.007Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd0e",
+    "title": "Kinky Straight Bundle Install",
+    "description": "Kinky-straight bundles blending with natural edges.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-067.jpg",
+    "tags": [
+      "kinky straight",
+      "bundles"
+    ],
+    "keywords": [
+      "kinky straight bundle install",
+      "long hairstyles",
+      "kinky straight",
+      "bundles"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Mixed",
+    "aspectRatio": 0.75,
+    "savesCount": 38,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T16:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.006Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd0f",
+    "title": "Long Layers with Curtain Bangs",
+    "description": "Long layers framed by soft curtain bangs.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-066.jpg",
+    "tags": [
+      "layers",
+      "curtain bangs"
+    ],
+    "keywords": [
+      "long layers with curtain bangs",
+      "long hairstyles",
+      "layers",
+      "curtain bangs"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Wavy",
+    "aspectRatio": 0.75,
+    "savesCount": 7,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T17:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.004Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd10",
+    "title": "Mermaid Waves",
+    "description": "Deep, uniform waves inspired by mermaid hair.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-065.jpg",
+    "tags": [
+      "mermaid",
+      "deep waves"
+    ],
+    "keywords": [
+      "mermaid waves",
+      "long hairstyles",
+      "mermaid",
+      "deep waves"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Wavy",
+    "aspectRatio": 0.7725,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T18:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.002Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd11",
+    "title": "Sleek Center-Parted Straight",
+    "description": "A glossy center-parted straight style with no flyaways.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-064.jpg",
+    "tags": [
+      "center part",
+      "sleek"
+    ],
+    "keywords": [
+      "sleek center-parted straight",
+      "long hairstyles",
+      "center part",
+      "sleek"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 1.495,
+    "savesCount": 6,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T19:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:25.000Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd12",
+    "title": "Long Bubble Ponytail",
+    "description": "A playful ponytail sectioned into soft bubbles.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-063.jpg",
+    "tags": [
+      "bubble",
+      "playful"
+    ],
+    "keywords": [
+      "long bubble ponytail",
+      "long hairstyles",
+      "bubble",
+      "playful"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Straight",
+    "aspectRatio": 0.75,
+    "savesCount": 26,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T20:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.998Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd13",
+    "title": "Vintage Hollywood Waves",
+    "description": "Glamorous brushed-out waves with a deep side part.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-062.jpg",
+    "tags": [
+      "hollywood",
+      "vintage",
+      "glam"
+    ],
+    "keywords": [
+      "vintage hollywood waves",
+      "long hairstyles",
+      "hollywood",
+      "vintage",
+      "glam"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Wavy",
+    "aspectRatio": 0.7634,
+    "savesCount": 23,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T21:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.996Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd14",
+    "title": "Half Up with Braided Detail",
+    "description": "A half-up style with a small braid wrapping the crown.",
+    "category": "Long Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-061.jpg",
+    "tags": [
+      "half up",
+      "braid detail"
+    ],
+    "keywords": [
+      "half up with braided detail",
+      "long hairstyles",
+      "half up",
+      "braid detail"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Wavy",
+    "aspectRatio": 0.7531,
+    "savesCount": 33,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-15T22:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.994Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd15",
+    "title": "Defined Wash-and-Go Curls",
+    "description": "Gel-defined ringlets from a careful wash-and-go.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-060.jpg",
+    "tags": [
+      "wash and go",
+      "defined"
+    ],
+    "keywords": [
+      "defined wash-and-go curls",
+      "curly hairstyles",
+      "wash and go",
+      "defined"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.6667,
+    "savesCount": 19,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-15T23:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.992Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd16",
+    "title": "Bantu Knot-Out Curls",
+    "description": "Bantu knots unravelled into full, springy curls.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-059.jpg",
+    "tags": [
+      "bantu knot out",
+      "springy"
+    ],
+    "keywords": [
+      "bantu knot-out curls",
+      "curly hairstyles",
+      "bantu knot out",
+      "springy"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Coily",
+    "aspectRatio": 0.8,
+    "savesCount": 10,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T00:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.991Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd17",
+    "title": "Long Spiral Curls",
+    "description": "Long, uniform spiral curls with high shine.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-058.jpg",
+    "tags": [
+      "spiral",
+      "long curls"
+    ],
+    "keywords": [
+      "long spiral curls",
+      "curly hairstyles",
+      "spiral",
+      "long curls"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Curly",
+    "aspectRatio": 0.6667,
+    "savesCount": 0,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T01:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.989Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd18",
+    "title": "Curly Bangs and Layers",
+    "description": "Soft curly bangs blended into face-framing layers.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-057.jpg",
+    "tags": [
+      "bangs",
+      "layered"
+    ],
+    "keywords": [
+      "curly bangs and layers",
+      "curly hairstyles",
+      "bangs",
+      "layered"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 1.4901,
+    "savesCount": 5,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T02:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.988Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd19",
+    "title": "Coily Fro with Shrinkage",
+    "description": "A healthy coily afro showing off natural shrinkage.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-056.jpg",
+    "tags": [
+      "coily",
+      "shrinkage"
+    ],
+    "keywords": [
+      "coily fro with shrinkage",
+      "curly hairstyles",
+      "coily",
+      "shrinkage"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.5,
+    "savesCount": 31,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T03:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.986Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd1a",
+    "title": "Side-Swept Curl Glam",
+    "description": "One-shoulder glamour curls swept dramatically to the side.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-055.jpg",
+    "tags": [
+      "side sweep",
+      "glam"
+    ],
+    "keywords": [
+      "side-swept curl glam",
+      "curly hairstyles",
+      "side sweep",
+      "glam"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Curly",
+    "aspectRatio": 0.6667,
+    "savesCount": 34,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T04:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.984Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd1b",
+    "title": "Curly Pineapple Updo",
+    "description": "A loose high pineapple that protects curls overnight.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-054.jpg",
+    "tags": [
+      "pineapple",
+      "protective"
+    ],
+    "keywords": [
+      "curly pineapple updo",
+      "curly hairstyles",
+      "pineapple",
+      "protective"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.6667,
+    "savesCount": 40,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T05:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.983Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd1c",
+    "title": "Tight Coil Straw Set",
+    "description": "Straw-set coils creating small, springy ringlets.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-053.jpg",
+    "tags": [
+      "straw set",
+      "coils"
+    ],
+    "keywords": [
+      "tight coil straw set",
+      "curly hairstyles",
+      "straw set",
+      "coils"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Coily",
+    "aspectRatio": 1.2658,
+    "savesCount": 35,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T06:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.981Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd1d",
+    "title": "Curly Bob with Volume",
+    "description": "A chin-length curly bob with natural body and bounce.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-052.jpg",
+    "tags": [
+      "bob",
+      "volume"
+    ],
+    "keywords": [
+      "curly bob with volume",
+      "curly hairstyles",
+      "bob",
+      "volume"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.8326,
+    "savesCount": 14,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T07:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.979Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd1e",
+    "title": "Waterfall Curls Half Up",
+    "description": "A half-up style with curls cascading like a waterfall.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-051.jpg",
+    "tags": [
+      "waterfall",
+      "half up"
+    ],
+    "keywords": [
+      "waterfall curls half up",
+      "curly hairstyles",
+      "waterfall",
+      "half up"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Curly",
+    "aspectRatio": 1.0321,
+    "savesCount": 36,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T08:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.977Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd1f",
+    "title": "Blown-Out Curl Cloud",
+    "description": "A light blow-out that keeps curl pattern and volume.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-050.jpg",
+    "tags": [
+      "blow out",
+      "volume"
+    ],
+    "keywords": [
+      "blown-out curl cloud",
+      "curly hairstyles",
+      "blow out",
+      "volume"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.8937,
+    "savesCount": 12,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T09:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.975Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd20",
+    "title": "Loc Curly Ends Style",
+    "description": "Locs transitioning into loose curly tips.",
+    "category": "Curly Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-049.jpg",
+    "tags": [
+      "locs",
+      "curly ends"
+    ],
+    "keywords": [
+      "loc curly ends style",
+      "curly hairstyles",
+      "locs",
+      "curly ends"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Curly",
+    "aspectRatio": 1.0078,
+    "savesCount": 26,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T10:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.973Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd21",
+    "title": "Bridal Braided Updo",
+    "description": "An intricate braided updo ready for a wedding day veil.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-048.jpg",
+    "tags": [
+      "bridal",
+      "braided updo"
+    ],
+    "keywords": [
+      "bridal braided updo",
+      "wedding & bridal",
+      "bridal",
+      "braided updo"
+    ],
+    "hairLength": "Any",
+    "occasion": "Wedding",
+    "hairType": "Any",
+    "aspectRatio": 1.3333,
+    "savesCount": 23,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T11:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.971Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd22",
+    "title": "Soft Romantic Low Bun",
+    "description": "A low chignon with soft face-framing pieces.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-047.jpg",
+    "tags": [
+      "low bun",
+      "romantic"
+    ],
+    "keywords": [
+      "soft romantic low bun",
+      "wedding & bridal",
+      "low bun",
+      "romantic"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Wedding",
+    "hairType": "Wavy",
+    "aspectRatio": 1.2912,
+    "savesCount": 58,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T12:57:31.601Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.969Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd23",
+    "title": "Braided Crown with Baby's Breath",
+    "description": "A halo braid tucked with baby's breath flowers.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-046.jpg",
+    "tags": [
+      "crown",
+      "flowers"
+    ],
+    "keywords": [
+      "braided crown with baby's breath",
+      "wedding & bridal",
+      "crown",
+      "flowers"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Wedding",
+    "hairType": "Wavy",
+    "aspectRatio": 1.3433,
+    "savesCount": 29,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T13:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.968Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd24",
+    "title": "Hollywood Glam Bridal Waves",
+    "description": "Polished vintage waves for an elegant bridal look.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-045.jpg",
+    "tags": [
+      "hollywood waves",
+      "glam"
+    ],
+    "keywords": [
+      "hollywood glam bridal waves",
+      "wedding & bridal",
+      "hollywood waves",
+      "glam"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Wavy",
+    "aspectRatio": 0.75,
+    "savesCount": 16,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T14:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.966Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd25",
+    "title": "Bridal Bantu Knot Updo",
+    "description": "Sculptural Bantu knots styled into a bridal crown.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-044.jpg",
+    "tags": [
+      "bantu knots",
+      "bridal"
+    ],
+    "keywords": [
+      "bridal bantu knot updo",
+      "wedding & bridal",
+      "bantu knots",
+      "bridal"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Wedding",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 16,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T15:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.964Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd26",
+    "title": "Veil-Ready Low Ponytail",
+    "description": "A sleek low ponytail designed to hold a cathedral veil.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-043.jpg",
+    "tags": [
+      "ponytail",
+      "veil"
+    ],
+    "keywords": [
+      "veil-ready low ponytail",
+      "wedding & bridal",
+      "ponytail",
+      "veil"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Straight",
+    "aspectRatio": 0.7171,
+    "savesCount": 4,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T16:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.962Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd27",
+    "title": "Side-Swept Bridal Curls",
+    "description": "Long curls swept over one shoulder with a jewelled clip.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-042.jpg",
+    "tags": [
+      "side sweep",
+      "curls"
+    ],
+    "keywords": [
+      "side-swept bridal curls",
+      "wedding & bridal",
+      "side sweep",
+      "curls"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Curly",
+    "aspectRatio": 1.5101,
+    "savesCount": 31,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T17:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.960Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd28",
+    "title": "Braided Chignon with Pearls",
+    "description": "A low chignon dotted with tiny pearl pins.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-041.jpg",
+    "tags": [
+      "chignon",
+      "pearls"
+    ],
+    "keywords": [
+      "braided chignon with pearls",
+      "wedding & bridal",
+      "chignon",
+      "pearls"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Wedding",
+    "hairType": "Any",
+    "aspectRatio": 0.755,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T18:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.957Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd29",
+    "title": "Bridal High Bun with Tendrils",
+    "description": "A clean high bun with soft curled tendrils at the temples.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-040.jpg",
+    "tags": [
+      "high bun",
+      "tendrils"
+    ],
+    "keywords": [
+      "bridal high bun with tendrils",
+      "wedding & bridal",
+      "high bun",
+      "tendrils"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Curly",
+    "aspectRatio": 0.75,
+    "savesCount": 65,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T19:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.955Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd2a",
+    "title": "Cornrowed Bridal Updo",
+    "description": "Straight-back cornrows gathered into an elegant bridal bun.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-039.jpg",
+    "tags": [
+      "cornrows",
+      "updo"
+    ],
+    "keywords": [
+      "cornrowed bridal updo",
+      "wedding & bridal",
+      "cornrows",
+      "updo"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Coily",
+    "aspectRatio": 0.6647,
+    "savesCount": 22,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T20:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.953Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd2b",
+    "title": "Messy Bridal Braid",
+    "description": "A relaxed side braid softened for a rustic wedding.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-038.jpg",
+    "tags": [
+      "braid",
+      "rustic"
+    ],
+    "keywords": [
+      "messy bridal braid",
+      "wedding & bridal",
+      "braid",
+      "rustic"
+    ],
+    "hairLength": "Long",
+    "occasion": "Wedding",
+    "hairType": "Wavy",
+    "aspectRatio": 0.7589,
+    "savesCount": 30,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T21:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.951Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd2c",
+    "title": "Twisted Bridal Updo",
+    "description": "Flat twists meeting in a sculpted low updo.",
+    "category": "Wedding & Bridal",
+    "imageUrl": "/uploads/seed/seed-new-037.jpg",
+    "tags": [
+      "twists",
+      "updo"
+    ],
+    "keywords": [
+      "twisted bridal updo",
+      "wedding & bridal",
+      "twists",
+      "updo"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Wedding",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 25,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-16T22:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.949Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd2d",
+    "title": "Kids Beaded Cornrows",
+    "description": "Neat straight-back cornrows finished with colorful beads.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-036.jpg",
+    "tags": [
+      "beads",
+      "cornrows",
+      "kids"
+    ],
+    "keywords": [
+      "kids beaded cornrows",
+      "children's hairstyles",
+      "beads",
+      "cornrows",
+      "kids"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.2712,
+    "savesCount": 28,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-16T23:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.947Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd2e",
+    "title": "Pigtail Afro Puffs",
+    "description": "Two soft afro puffs tied with bright ribbons.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-035.jpg",
+    "tags": [
+      "puffs",
+      "pigtails"
+    ],
+    "keywords": [
+      "pigtail afro puffs",
+      "children's hairstyles",
+      "puffs",
+      "pigtails"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 15,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T00:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.945Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd2f",
+    "title": "Kids Box Braids with Balls",
+    "description": "Small box braids sealed with plastic ball ends.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-034.jpg",
+    "tags": [
+      "box braids",
+      "kids"
+    ],
+    "keywords": [
+      "kids box braids with balls",
+      "children's hairstyles",
+      "box braids",
+      "kids"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 3,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T01:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.943Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd30",
+    "title": "Heart Part Pigtails",
+    "description": "Pigtail sections parted into little heart shapes.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-033.jpg",
+    "tags": [
+      "hearts",
+      "pigtails"
+    ],
+    "keywords": [
+      "heart part pigtails",
+      "children's hairstyles",
+      "hearts",
+      "pigtails"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.75,
+    "savesCount": 68,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T02:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.940Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd31",
+    "title": "Kids Braided Crown",
+    "description": "A simple halo braid circling the head.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-032.jpg",
+    "tags": [
+      "crown",
+      "braid"
+    ],
+    "keywords": [
+      "kids braided crown",
+      "children's hairstyles",
+      "crown",
+      "braid"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Formal",
+    "hairType": "Any",
+    "aspectRatio": 1.5464,
+    "savesCount": 28,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T03:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.938Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd32",
+    "title": "Curly Toddler Wash-and-Go",
+    "description": "A gentle wash-and-go for soft toddler curls.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-031.jpg",
+    "tags": [
+      "toddler",
+      "wash and go"
+    ],
+    "keywords": [
+      "curly toddler wash-and-go",
+      "children's hairstyles",
+      "toddler",
+      "wash and go"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.5505,
+    "savesCount": 23,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T04:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.936Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd33",
+    "title": "Kids Knotless Braids with Beads",
+    "description": "Lightweight knotless braids decorated with beads.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-030.jpg",
+    "tags": [
+      "knotless",
+      "beads"
+    ],
+    "keywords": [
+      "kids knotless braids with beads",
+      "children's hairstyles",
+      "knotless",
+      "beads"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.5625,
+    "savesCount": 19,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T05:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.934Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd34",
+    "title": "Braided Pigtail Buns",
+    "description": "Two braided buns sitting high on the head.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-029.jpg",
+    "tags": [
+      "buns",
+      "pigtails"
+    ],
+    "keywords": [
+      "braided pigtail buns",
+      "children's hairstyles",
+      "buns",
+      "pigtails"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 0.5625,
+    "savesCount": 33,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T06:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.932Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd35",
+    "title": "Kids Cornrow Ponytail",
+    "description": "Cornrows feeding into a single bouncy ponytail.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-028.jpg",
+    "tags": [
+      "cornrows",
+      "ponytail"
+    ],
+    "keywords": [
+      "kids cornrow ponytail",
+      "children's hairstyles",
+      "cornrows",
+      "ponytail"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.4129,
+    "savesCount": 20,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T07:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.917Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd36",
+    "title": "Fulani Braids for Kids",
+    "description": "Small Fulani-style braids with a center part and beads.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-027.jpg",
+    "tags": [
+      "fulani",
+      "beads"
+    ],
+    "keywords": [
+      "fulani braids for kids",
+      "children's hairstyles",
+      "fulani",
+      "beads"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 1.5,
+    "savesCount": 31,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T08:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.915Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd37",
+    "title": "Kids Twist Style",
+    "description": "Chunky two-strand twists secured with clips.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-026.jpg",
+    "tags": [
+      "twists",
+      "clips"
+    ],
+    "keywords": [
+      "kids twist style",
+      "children's hairstyles",
+      "twists",
+      "clips"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.75,
+    "savesCount": 60,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T09:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.913Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd38",
+    "title": "Toddler Puff with Bow",
+    "description": "A single soft puff topped with an oversized bow.",
+    "category": "Children's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-025.jpg",
+    "tags": [
+      "puff",
+      "bow"
+    ],
+    "keywords": [
+      "toddler puff with bow",
+      "children's hairstyles",
+      "puff",
+      "bow"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.7544,
+    "savesCount": 12,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T10:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.911Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd39",
+    "title": "High Top Fade",
+    "description": "A tall, flat-topped fade inspired by classic style.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-024.jpg",
+    "tags": [
+      "high top",
+      "fade"
+    ],
+    "keywords": [
+      "high top fade",
+      "men's hairstyles",
+      "high top",
+      "fade"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.505,
+    "savesCount": 23,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T11:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.909Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd3a",
+    "title": "Textured Crop with Fringe",
+    "description": "A short crop with a textured fringe brushed forward.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-023.jpg",
+    "tags": [
+      "crop",
+      "fringe"
+    ],
+    "keywords": [
+      "textured crop with fringe",
+      "men's hairstyles",
+      "crop",
+      "fringe"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Straight",
+    "aspectRatio": 0.75,
+    "savesCount": 4,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T12:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.907Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd3b",
+    "title": "Afro with Line-Up",
+    "description": "A full afro with a sharply lined-up hairline.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-022.jpg",
+    "tags": [
+      "afro",
+      "line up"
+    ],
+    "keywords": [
+      "afro with line-up",
+      "men's hairstyles",
+      "afro",
+      "line up"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 14,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T13:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.905Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd3c",
+    "title": "Low Taper Fade with Waves",
+    "description": "A low taper fade revealing deep 360 waves.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-021.jpg",
+    "tags": [
+      "taper",
+      "waves"
+    ],
+    "keywords": [
+      "low taper fade with waves",
+      "men's hairstyles",
+      "taper",
+      "waves"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.8227,
+    "savesCount": 24,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T14:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.780Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd3d",
+    "title": "Twist Top with High Fade",
+    "description": "Short twists on top over a high skin fade.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-020.jpg",
+    "tags": [
+      "twists",
+      "high fade"
+    ],
+    "keywords": [
+      "twist top with high fade",
+      "men's hairstyles",
+      "twists",
+      "high fade"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.742,
+    "savesCount": 21,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T15:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.776Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd3e",
+    "title": "Box Braids for Men",
+    "description": "Shoulder-length box braids parted in clean squares.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-019.jpg",
+    "tags": [
+      "box braids",
+      "men"
+    ],
+    "keywords": [
+      "box braids for men",
+      "men's hairstyles",
+      "box braids",
+      "men"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.75,
+    "savesCount": 57,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T16:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.774Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd3f",
+    "title": "Locs with Undercut",
+    "description": "Mature locs above a clean undercut.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-018.jpg",
+    "tags": [
+      "locs",
+      "undercut"
+    ],
+    "keywords": [
+      "locs with undercut",
+      "men's hairstyles",
+      "locs",
+      "undercut"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.7787,
+    "savesCount": 19,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T17:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.772Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd40",
+    "title": "Crew Cut Classic",
+    "description": "A timeless short crew cut, evenly tapered.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-017.jpg",
+    "tags": [
+      "crew cut",
+      "classic"
+    ],
+    "keywords": [
+      "crew cut classic",
+      "men's hairstyles",
+      "crew cut",
+      "classic"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Straight",
+    "aspectRatio": 1.7787,
+    "savesCount": 15,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T18:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.770Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd41",
+    "title": "Curly Top with Mid Fade",
+    "description": "Natural curls on top with a mid fade on the sides.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-016.jpg",
+    "tags": [
+      "curly",
+      "mid fade"
+    ],
+    "keywords": [
+      "curly top with mid fade",
+      "men's hairstyles",
+      "curly",
+      "mid fade"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Curly",
+    "aspectRatio": 0.5629,
+    "savesCount": 38,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T19:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.768Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd42",
+    "title": "Cornrows for Men",
+    "description": "Straight-back cornrows with a clean center part.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-015.jpg",
+    "tags": [
+      "cornrows",
+      "straight back"
+    ],
+    "keywords": [
+      "cornrows for men",
+      "men's hairstyles",
+      "cornrows",
+      "straight back"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.589,
+    "savesCount": 37,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T20:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.763Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd43",
+    "title": "Slicked Back Undercut",
+    "description": "Longer hair slicked back over a tight undercut.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-014.jpg",
+    "tags": [
+      "slicked back",
+      "undercut"
+    ],
+    "keywords": [
+      "slicked back undercut",
+      "men's hairstyles",
+      "slicked back",
+      "undercut"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 0.75,
+    "savesCount": 33,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T21:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.762Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd44",
+    "title": "Frosted Tips Fade",
+    "description": "A short fade with subtly frosted curly tips.",
+    "category": "Men's Hairstyles",
+    "imageUrl": "/uploads/seed/seed-new-013.jpg",
+    "tags": [
+      "frosted tips",
+      "fade"
+    ],
+    "keywords": [
+      "frosted tips fade",
+      "men's hairstyles",
+      "frosted tips",
+      "fade"
+    ],
+    "hairLength": "Short",
+    "occasion": "Party",
+    "hairType": "Curly",
+    "aspectRatio": 0.75,
+    "savesCount": 16,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-17T22:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.760Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd45",
+    "title": "Butterfly Locs Bob Trend",
+    "description": "Shoulder-length butterfly locs trending this season.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-012.jpg",
+    "tags": [
+      "butterfly locs",
+      "trending"
+    ],
+    "keywords": [
+      "butterfly locs bob trend",
+      "trending & protective",
+      "butterfly locs",
+      "trending"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.505,
+    "savesCount": 69,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-17T23:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.758Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd46",
+    "title": "Bohemian Knotless Trend",
+    "description": "Knotless braids with scattered human-hair curls.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-011.jpg",
+    "tags": [
+      "bohemian",
+      "knotless"
+    ],
+    "keywords": [
+      "bohemian knotless trend",
+      "trending & protective",
+      "bohemian",
+      "knotless"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Curly",
+    "aspectRatio": 0.8101,
+    "savesCount": 19,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T00:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.755Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd47",
+    "title": "Sleek Low Bun Trend",
+    "description": "A glass-hair low bun with mirror shine.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-010.jpg",
+    "tags": [
+      "low bun",
+      "sleek"
+    ],
+    "keywords": [
+      "sleek low bun trend",
+      "trending & protective",
+      "low bun",
+      "sleek"
+    ],
+    "hairLength": "Long",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 0.6711,
+    "savesCount": 12,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-18T01:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.750Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd48",
+    "title": "Braided Bob Trend",
+    "description": "A chin-length braided bob with blunt ends.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-009.jpg",
+    "tags": [
+      "braided bob",
+      "blunt"
+    ],
+    "keywords": [
+      "braided bob trend",
+      "trending & protective",
+      "braided bob",
+      "blunt"
+    ],
+    "hairLength": "Short",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 1.3333,
+    "savesCount": 27,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T02:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.747Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd49",
+    "title": "Fulani Braids with Beads Trend",
+    "description": "Tribal Fulani braids accented with gold beads.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-008.jpg",
+    "tags": [
+      "fulani",
+      "beads",
+      "tribal"
+    ],
+    "keywords": [
+      "fulani braids with beads trend",
+      "trending & protective",
+      "fulani",
+      "beads",
+      "tribal"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Any",
+    "aspectRatio": 1.3333,
+    "savesCount": 27,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T03:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.745Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd4a",
+    "title": "Copper Colour Protective Style",
+    "description": "Copper-toned knotless braids for a seasonal refresh.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-007.jpg",
+    "tags": [
+      "copper",
+      "colored",
+      "protective"
+    ],
+    "keywords": [
+      "copper colour protective style",
+      "trending & protective",
+      "copper",
+      "colored",
+      "protective"
+    ],
+    "hairLength": "Long",
+    "occasion": "Everyday",
+    "hairType": "Any",
+    "aspectRatio": 0.6608,
+    "savesCount": 39,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-18T04:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.743Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd4b",
+    "title": "Blunt Bob Wig Trend",
+    "description": "A razor-straight blunt bob unit with a middle part.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-006.jpg",
+    "tags": [
+      "blunt bob",
+      "wig"
+    ],
+    "keywords": [
+      "blunt bob wig trend",
+      "trending & protective",
+      "blunt bob",
+      "wig"
+    ],
+    "hairLength": "Short",
+    "occasion": "Formal",
+    "hairType": "Straight",
+    "aspectRatio": 1.3333,
+    "savesCount": 22,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T05:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.741Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd4c",
+    "title": "Pineapple Puff Trend",
+    "description": "A high pineapple puff with laid edges.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-005.jpg",
+    "tags": [
+      "pineapple",
+      "puff"
+    ],
+    "keywords": [
+      "pineapple puff trend",
+      "trending & protective",
+      "pineapple",
+      "puff"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Everyday",
+    "hairType": "Coily",
+    "aspectRatio": 0.805,
+    "savesCount": 65,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T06:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.738Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd4d",
+    "title": "Goddess Locs Trend",
+    "description": "Long goddess locs with wavy loose ends.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-004.jpg",
+    "tags": [
+      "goddess locs",
+      "long"
+    ],
+    "keywords": [
+      "goddess locs trend",
+      "trending & protective",
+      "goddess locs",
+      "long"
+    ],
+    "hairLength": "Long",
+    "occasion": "Festival",
+    "hairType": "Wavy",
+    "aspectRatio": 1,
+    "savesCount": 11,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-18T07:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.735Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd4e",
+    "title": "Space Buns with Braids Trend",
+    "description": "Trendy space buns built from knotless braids.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-003.jpg",
+    "tags": [
+      "space buns",
+      "braids"
+    ],
+    "keywords": [
+      "space buns with braids trend",
+      "trending & protective",
+      "space buns",
+      "braids"
+    ],
+    "hairLength": "Medium",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1,
+    "savesCount": 8,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T08:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.731Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd4f",
+    "title": "Braided Ponytail Trend",
+    "description": "A high braided ponytail with a wrapped base.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-002.jpg",
+    "tags": [
+      "ponytail",
+      "braided"
+    ],
+    "keywords": [
+      "braided ponytail trend",
+      "trending & protective",
+      "ponytail",
+      "braided"
+    ],
+    "hairLength": "Long",
+    "occasion": "Party",
+    "hairType": "Any",
+    "aspectRatio": 1.3333,
+    "savesCount": 26,
+    "author": "6ad4b42b03dec4458192bcaa",
+    "createdAt": "2026-10-18T09:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.724Z"
+  },
+  {
+    "_id": "6ad4b42b03dec4458192bd50",
+    "title": "Faux Hawk Fade Trend",
+    "description": "A bold faux hawk over a clean fade.",
+    "category": "Trending & Protective",
+    "imageUrl": "/uploads/seed/seed-new-001.jpg",
+    "tags": [
+      "faux hawk",
+      "fade"
+    ],
+    "keywords": [
+      "faux hawk fade trend",
+      "trending & protective",
+      "faux hawk",
+      "fade"
+    ],
+    "hairLength": "Short",
+    "occasion": "Party",
+    "hairType": "Coily",
+    "aspectRatio": 1.3333,
+    "savesCount": 23,
+    "author": "6ad4b42a03dec4458192bca9",
+    "createdAt": "2026-10-18T10:57:31.602Z",
+    "__v": 0,
+    "updatedAt": "2026-10-18T13:24:24.712Z"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "buranga-server",
+  "version": "1.0.0",
+  "description": "BURANGA backend - hairstyle inspiration platform API",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.6.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.1.2",
+    "multer": "^2.0.2"
+  }
+}

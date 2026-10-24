@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment
+server/.env
+
+# Logs
+*.log
+harvest.log
+harvest.err
+dev.log
+server.log
+
+# Build artifacts
+client/dist/
+client/.vite/
+server/uploads/2026-*/
+!server/uploads/seed/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# npm/pnpm caches
+.npm/
+.pnpm-store/
+
+# Coverage
+coverage/
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+# Dependencies
+node_modules/
+
+

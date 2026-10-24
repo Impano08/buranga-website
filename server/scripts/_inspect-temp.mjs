@@ -1,0 +1,13 @@
+﻿import mongoose from 'mongoose';
+await mongoose.connect('mongodb://127.0.0.1:27017/buranga');
+const H = mongoose.connection.collection('hairstyles');
+const U = mongoose.connection.collection('users');
+const users = await U.find({}).project({name:1,email:1}).toArray();
+console.log('USERS:', users.map(u=>({id:u._id.toString(),name:u.name,email:u.email})));
+console.log('\nLEGACY:');
+for (const d of await H.find({category:'Uncategorized (legacy)'}).toArray()) console.log(`- ${d.title} :: ${d.imageUrl}`);
+console.log('\nLOCAL ASSET REFS:');
+for (const d of await H.find({imageUrl:{$regex:'assets|local'}}).toArray()) console.log(`- [${d.category}] ${d.title} :: ${d.imageUrl}`);
+console.log('\nFIRST 5 SEED docs:');
+for (const d of await H.find({}).limit(5).toArray()) console.log(JSON.stringify({title:d.title,category:d.category,imageUrl:d.imageUrl,author:d.author,tags:d.tags,aspectRatio:d.aspectRatio}));
+await mongoose.disconnect();
